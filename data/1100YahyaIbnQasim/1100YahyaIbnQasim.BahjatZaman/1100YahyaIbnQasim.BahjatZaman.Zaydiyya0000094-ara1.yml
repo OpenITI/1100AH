@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 935661
 00#VERS#LENGTH###: 219524
 00#VERS#URI######: 1100YahyaIbnQasim.BahjatZaman.Zaydiyya0000094-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text is not a published book, but an M.A dissertation at San'a University. So, there is no PDF for it, and it is just a digital version in this address: https://al-majalis.org/books/wp-content/uploads/ebooks/%D8%A8%D9%87%D8%AC%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D8%A8%D9%86-%D9%8A%D8%AD%D9%8A%D9%89-%D8%A8%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85.html
+90#VERS#DATE#####: 2023-08-18
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
